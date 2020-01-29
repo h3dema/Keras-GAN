@@ -16,6 +16,7 @@ from data_loader import DataLoader
 import numpy as np
 import os
 
+
 class CycleGAN():
     def __init__(self):
         # Input shape
