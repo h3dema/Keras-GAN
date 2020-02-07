@@ -1,11 +1,11 @@
-keras
-git+https://www.github.com/keras-team/keras-contrib.git
 matplotlib
 numpy
 scipy
 pillow
-#urllib
-#skimage
+tensorflow
+keras
+git+https://www.github.com/keras-team/keras-contrib.git
+scikit-learn
 scikit-image
-#gzip
-#pickle
+ipython
+jupyter
