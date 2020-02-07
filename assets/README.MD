@@ -1,0 +1,1 @@
+# This folder contains imgs used in some readme files
