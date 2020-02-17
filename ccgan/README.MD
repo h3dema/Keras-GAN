@@ -4,5 +4,5 @@ Implementation of _Semi-Supervised Learning with Context-Conditional Generative 
 Paper: https://arxiv.org/abs/1611.06430
 
 <p align="center">
-    <img src="http://eriklindernoren.se/images/ccgan.png" width="640"\>
+    <img src="./ccgan.png" width="640"\>
 </p>
