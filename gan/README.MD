@@ -4,5 +4,5 @@ Implementation of _Generative Adversarial Network_ with a MLP generator and disc
 Paper: https://arxiv.org/abs/1406.2661
 
 <p align="center">
-    <img src="http://eriklindernoren.se/images/gan_mnist5.gif" width="640"\>
+    <img src="./gan.gif" width="640"\>
 </p>
