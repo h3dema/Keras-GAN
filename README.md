@@ -11,7 +11,7 @@ Collection of Keras implementations of Generative Adversarial Networks (GANs) su
   * [Installation](#installation)
   * [Implementations](#implementations)
     + [Auxiliary Classifier GAN](#ac-gan)
-    + [Adversarial Autoencoder](#adversarial-autoencoder)
+    + [Adversarial Autoencoder](aae/README.MD)
     + [Bidirectional GAN](#bigan)
     + [Boundary-Seeking GAN](#bgan)
     + [Conditional GAN](#cgan)
