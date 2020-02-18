@@ -34,9 +34,16 @@ Collection of Keras implementations of Generative Adversarial Networks (GANs) su
     + [Wasserstein GAN GP](#wgan-gp/README.MD)
 
 ## Installation
+
+To install without an environment, use:
+```
     $ git clone https://github.com/h3dema/Keras-GAN.git
     $ cd Keras-GAN/
     $ sudo pip3 install -r requirements.txt
+```
+
+To use virtualenv or anaconda, please refer to how to enable the environment in their documentation.
+The commands to clone and install are the same as above.
 
 
 ## Running the code
