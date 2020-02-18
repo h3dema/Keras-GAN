@@ -6,3 +6,7 @@ Paper: https://arxiv.org/abs/1704.02510
 <p align="center">
     <img src="arch.png" width="640"\>
 </p>
+
+<p align="center">
+    <img src="dualgan.gif" width="640"\>
+</p>
