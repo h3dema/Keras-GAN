@@ -21,9 +21,9 @@ Collection of Keras implementations of Generative Adversarial Networks (GANs) su
     + [CycleGAN](cyclegan/README.MD)
     + [Deep Convolutional GAN](dcgan/README.MD)
     + [DiscoGAN](discogan/README.MD)
+    + [DualGAN](dualgan/README.MD)
     + [Generative Adversarial Network](gan/README.MD)
 
-    + [DualGAN](dualgan/README.MD)
     + [InfoGAN](infogan/README.MD)
     + [LSGAN](#lsgan/README.MD)
     + [Pix2Pix](#pix2pix/README.MD)
