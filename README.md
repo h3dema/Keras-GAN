@@ -23,8 +23,8 @@ Collection of Keras implementations of Generative Adversarial Networks (GANs) su
     + [DiscoGAN](discogan/README.MD)
     + [DualGAN](dualgan/README.MD)
     + [Generative Adversarial Network](gan/README.MD)
-
     + [InfoGAN](infogan/README.MD)
+
     + [LSGAN](#lsgan/README.MD)
     + [Pix2Pix](#pix2pix/README.MD)
     + [PixelDA](#pixelda/README.MD)
