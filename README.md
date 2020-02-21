@@ -26,7 +26,7 @@ Collection of Keras implementations of Generative Adversarial Networks (GANs) su
     + [InfoGAN](infogan/README.MD)
     + [LSGAN](lsgan/README.MD)
     + [Wasserstein GAN](wgan/README.MD)
-    + [Wasserstein GAN GP](wgan-gp/README.MD)
+    + [Wasserstein GAN GP](wgan_gp/README.MD)
 
     + [Pix2Pix](pix2pix/README.MD)
     + [PixelDA](pixelda/README.MD)
